@@ -14,7 +14,7 @@ export default function Contact() {
                                 Fill in the form to start a conversation
                             </p>
 
-                            <div className="flex items-center mt-8 text-gray-600">
+                            <div className="flex items-center mt-6 text-gray-600">
                                 <svg
                                     fill="none"
                                     stroke="currentColor"
@@ -38,7 +38,7 @@ export default function Contact() {
                                     />
                                 </svg>
                                 <div className="ml-4 text-md tracking-wide font-semibold w-40">
-                                    Acme Inc, Street, State, Postal Code
+                                    New Delhi, Delhi, India
                                 </div>
                             </div>
 
@@ -60,11 +60,11 @@ export default function Contact() {
                                     />
                                 </svg>
                                 <div className="ml-4 text-md tracking-wide font-semibold w-40">
-                                    +44 1234567890
+                                    +91 9582164233
                                 </div>
                             </div>
 
-                            <div className="flex items-center mt-2 text-gray-600">
+                            <div className="flex items-center mt-4 text-gray-600">
                                 <svg
                                     fill="none"
                                     stroke="currentColor"
@@ -82,7 +82,7 @@ export default function Contact() {
                                     />
                                 </svg>
                                 <div className="ml-4 text-md tracking-wide font-semibold w-40">
-                                    info@acme.org
+                                    mattaaditya1905@gmail.com
                                 </div>
                             </div>
                         </div>
