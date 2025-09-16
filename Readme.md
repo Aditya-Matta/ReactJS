@@ -1,4 +1,4 @@
-# ReactJS Portfolio / Project Repo
+# ReactJS Repo
 
 ## Description
 This repository contains my personal ReactJS projects and practice work. It demonstrates my understanding of React concepts such as components, state management, props, hooks, and basic styling.  
